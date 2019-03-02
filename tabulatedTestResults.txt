@@ -1,0 +1,12 @@
+Name,Passed,Failed,Incomplete,Duration,Details
+test_script/Test1RunValidInput_checkFunctionTest,1,0,0,0.0127105,
+test_script/Test2RunInvalidInput_checkFunctionTest,1,0,0,0.0050783,
+test_script/Test3RunValidRange_checkFunctionTest,1,0,0,0.0065856,
+test_script/Test4RunInvalidRange_checkFunctionTest,1,0,0,0.0043983,
+test_script/Test5RunValidName_checkFunctionTest,1,0,0,0.004149,
+test_script/Test6RunInvalidName_checkFunctionTest,1,0,0,0.0036017,
+test_script/Test7RunLEFTDirectionFunctionTest,1,0,0,0.0049079,
+test_script/Test8RunRIGHTDirectionFunctionTest,1,0,0,0.0051396,
+test_script/Test9RunValidNORTHMoveFunctionTest,1,0,0,0.0061015,
+test_script/Test10RunValidWESTMoveFunctionTest,1,0,0,0.005011,
+test_script/Test11RunInvalidEASTMoveFunctionTest,1,0,0,0.0084786,
